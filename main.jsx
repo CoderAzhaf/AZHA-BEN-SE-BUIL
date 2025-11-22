@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App.jsx'; // Imports your game component
+import App from './GameApp.jsx'; // Imports your game component
 import './index.css'; // Imports your Tailwind styles
 
 // This line finds the <div id="root"> element in your index.html
